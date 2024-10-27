@@ -37,4 +37,4 @@ Write the following in C++ according to the guidelines above
 # Cryptocurrencies
 - Explain in your own words what are cryptocurrencies?
 - Explain what is zero-knowledge proofs? Give an example of a simple ZKP.
-- Why do you want to work for Bitwyre?
+- Why do you want to work for STG?
